@@ -51,7 +51,7 @@ Last updated: November 2026.
 </div>
 
 > [!TIP]
-> **Every other tool on this list remembers for one person. Glen remembers for the team.** Every Claude Code session your teammates run is recorded, turned into memory, and fed back into your Claude while it works. If someone already figured out why the billing worker batches at 500, your Claude knows before you ask.
+> **Most Claude memory tools remember for one person. Glen remembers for the whole team.** Every Claude Code session your teammates run is recorded, turned into memory, and fed back into your Claude while it works. If someone already figured out why the billing worker batches at 500, your Claude knows before you ask.
 >
 > ```bash
 > npx @tryglen/cli@latest install
